@@ -1,0 +1,3 @@
+C:/Users/User/OneDrive/Masaüstü/Everything/Yazılım/13.10.2024 ve sonrası/Insertion Sort Algorithm/cmake-build-debug/CMakeFiles/Insertion_Sort_Algorithm.dir
+C:/Users/User/OneDrive/Masaüstü/Everything/Yazılım/13.10.2024 ve sonrası/Insertion Sort Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/OneDrive/Masaüstü/Everything/Yazılım/13.10.2024 ve sonrası/Insertion Sort Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
